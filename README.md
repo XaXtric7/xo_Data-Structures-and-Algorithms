@@ -6,9 +6,25 @@ I am regularly updating this repository with solutions and implementations of fu
 
 ## 🔥 Topics Covered
 
-- 📌 Arrays
-- 📌 Linked Lists
-- 📌 Stacks
+### 📌 Arrays
+
+- Insertion
+- Deletion
+- Linear & Binary Search
+
+### 📌 Abstract Data Types (ADTs)
+
+### 📌 Linked Lists
+
+- Singly Linked List
+- Circular Linked List
+- Doubly Linked List
+- Linked List Traversal
+- Insertion & Deletion
+
+### 📌 Stacks
+
+- Stack Implementation using Arrays
 
 ## 📜 How to Use
 
