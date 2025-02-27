@@ -1,3 +1,8 @@
+// In the given C program, malloc (memory allocation) is not used because the stack is implemented using a
+// statically allocated array inside the Stack structure.
+// malloc is typically used when we need to allocate memory dynamically at runtime,
+// especially when the size of data structures is unknown or can change.
+
 #include <stdio.h>
 #define MAX 5 // Define maximum stack size
 
