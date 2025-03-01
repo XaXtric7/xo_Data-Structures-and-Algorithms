@@ -25,6 +25,7 @@ I am regularly updating this repository with solutions and implementations of fu
 ### 📌 Stacks
 
 - Stack Implementation using Arrays
+- Stack Implementation using Linked Lists
 
 ## 📜 How to Use
 
