@@ -1,3 +1,18 @@
+// Questions arised while coding this..
+// 1. How do we know where ptr is pointing?
+// Ans. (1). ptr is initially set to the top of the stack (or head of the linked list)
+//              This is because when calling linkedListTraversal(top);, we pass the top pointer,
+//              which stores the address of the first node.
+//      (2). Iteration through the linked list
+//              ptr->next stores the address of the next node in the list.
+//              In each iteration, ptr moves to the next node (ptr = ptr->next).
+//              The loop stops when ptr == NULL, meaning it has reached the end of the list.
+// 2. Since linked lists are known for being dynamic and the stacks are pre defined how do we know whats the size of the linked list,
+//    and when its gonna overflow ?
+//      (1). Linked list size isn't predefined but can be tracked using a counter.
+//      (2). Stack overflows when the heap runs out of memory, not when a max size is reached.
+//      (3). Detect overflow using malloc() check in push().
+
 #include <stdio.h>
 #include <stdlib.h>
 
