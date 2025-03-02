@@ -26,6 +26,7 @@ I am regularly updating this repository with solutions and implementations of fu
 
 - Stack Implementation using Arrays
 - Stack Implementation using Linked Lists
+- Single & Multiple perenthesis matching
 
 ## 📜 How to Use
 
