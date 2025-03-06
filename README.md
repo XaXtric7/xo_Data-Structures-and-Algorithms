@@ -29,6 +29,11 @@ I am regularly updating this repository with solutions and implementations of fu
 - Single & Multiple perenthesis matching
 - Infix to postfix using stacks
 
+### 📌 Stacks
+
+- Queues Implementation using Arrays
+- Circular Queues Implementation using Arrays
+
 ## 📜 How to Use
 
 - Clone the repository:
