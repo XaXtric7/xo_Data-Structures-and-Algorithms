@@ -34,6 +34,7 @@ I am regularly updating this repository with solutions and implementations of fu
 - Queues Implementation using Arrays
 - Circular Queues Implementation using Arrays
 - Queues Implementation using Linked LIst
+- DEqueue Implementation
 
 ## 📜 How to Use
 
