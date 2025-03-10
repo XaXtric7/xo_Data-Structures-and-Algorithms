@@ -36,6 +36,10 @@ I am regularly updating this repository with solutions and implementations of fu
 - Queues Implementation using Linked LIst
 - DEqueue Implementation
 
+### 📌 Sorting Algorithms
+
+- Bubble Sorting
+
 ## 📜 How to Use
 
 - Clone the repository:
