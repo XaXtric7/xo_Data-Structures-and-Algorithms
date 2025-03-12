@@ -39,6 +39,7 @@ I am regularly updating this repository with solutions and implementations of fu
 ### 📌 Sorting Algorithms
 
 - Bubble Sorting
+- Insertion Sorting
 
 ## 📜 How to Use
 
