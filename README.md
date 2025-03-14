@@ -38,8 +38,9 @@ I am regularly updating this repository with solutions and implementations of fu
 
 ### 📌 Sorting Algorithms
 
-- Bubble Sorting
-- Insertion Sorting
+- Bubble Sort
+- Insertion Sort
+- Selection Sort
 
 ## 📜 How to Use
 
