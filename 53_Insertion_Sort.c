@@ -56,3 +56,19 @@ int main()
     printArray(A, n);
     return 0;
 }
+
+// ✅ Advantages of Insertion Sort:
+
+// Simple and Easy to Implement – It is one of the easiest sorting algorithms to understand and code.
+// Efficient for Small Data Sets – Performs well on small or nearly sorted arrays, with O(n) best-case time complexity.
+// In-Place Sorting – Requires no extra memory (space complexity O(1)), making it memory-efficient.
+// Stable Sorting Algorithm – Preserves the relative order of equal elements, which is important in certain applications.
+// Adaptive (Efficient for Nearly Sorted Data) – If the array is almost sorted, insertion sort runs in O(n) time, making it faster than Bubble Sort and even Quick Sort in such cases.
+// Works Well for Online Sorting – It can sort data as it receives it, making it useful for real-time applications.
+
+// ❌ Disadvantages of Insertion Sort:
+
+// Slow for Large Data Sets – Has an average and worst-case time complexity of O(n²), making it inefficient for big arrays.
+// More Comparisons and Shifts – In worst cases, elements need to be shifted many times, increasing execution time.
+// Not the Best for Unsorted Large Data – For randomly ordered large data, Merge Sort, Quick Sort, or Heap Sort are much faster.
+// Recursive Alternative Can Be Better – Recursive algorithms like Merge Sort or Quick Sort divide and conquer, reducing comparisons in large data sets.
