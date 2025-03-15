@@ -150,7 +150,7 @@ int main()
 // Cache-Friendly – Works well with modern CPU caches due to sequential memory access.
 // Widely Used in Real-World Applications – Many programming libraries and frameworks use Quick Sort for its efficiency.
 
-// ❌ Disadvantages of Quick Sort:
+// ❌ Disadvantages of Quick Sort:.
 
 // Worst-Case Time Complexity is O(n²) – If the pivot selection is poor (e.g., always picking the smallest or largest element), performance degrades to O(n²).
 // Not a Stable Sort – It does not always maintain the relative order of equal elements, which may be an issue for certain applications.
