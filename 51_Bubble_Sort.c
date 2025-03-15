@@ -64,7 +64,7 @@ int main()
     return 0;
 }
 
-// Advantages of Bubble Sort:
+// Advantages of Bubble Sort.:
 
 // - Simplicity – It is one of the simplest sorting algorithms to understand and implement.
 // - Easy to Implement – Requires only a few lines of code, making it good for educational purposes.
