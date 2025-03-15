@@ -41,6 +41,7 @@ I am regularly updating this repository with solutions and implementations of fu
 - Bubble Sort
 - Insertion Sort
 - Selection Sort
+- Quick Sort
 
 ## 📜 How to Use
 
