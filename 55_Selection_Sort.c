@@ -60,3 +60,18 @@ int main()
 
     return 0;
 }
+// ✅ Advantages of Selection Sort:
+
+// Simple and Easy to Implement – The algorithm is straightforward and requires fewer lines of code.
+// In-Place Sorting – Requires O(1) extra space, making it memory efficient.
+// Performs Well on Small Data Sets – Works fine for small arrays where advanced algorithms might be unnecessary.
+// Fewer Swaps than Bubble Sort – Unlike Bubble Sort, which swaps in every iteration, Selection Sort only swaps once per pass, reducing the number of swaps significantly.
+// Consistently O(n²) Time Complexity – Unlike Insertion Sort, which can be O(n) in the best case, Selection Sort remains consistently O(n²) regardless of initial ordering.
+
+// ❌ Disadvantages of Selection Sort:
+
+// Inefficient for Large Data Sets – Has a worst-case and average-case time complexity of O(n²), making it impractical for large datasets.
+// Not Adaptive – Unlike Insertion Sort, Selection Sort does not take advantage of already sorted elements to speed up execution.
+// Not Stable – It may change the relative order of equal elements, making it unsuitable for scenarios where stability is required.
+// More Comparisons than Swaps – Even though it minimizes swaps, it performs O(n²) comparisons, which can slow down execution.
+// Slower than Insertion Sort for Nearly Sorted Data – Insertion Sort performs O(n) in the best case, whereas Selection Sort still takes O(n²).
