@@ -74,4 +74,4 @@ int main()
 // Not Adaptive – Unlike Insertion Sort, Selection Sort does not take advantage of already sorted elements to speed up execution.
 // Not Stable – It may change the relative order of equal elements, making it unsuitable for scenarios where stability is required.
 // More Comparisons than Swaps – Even though it minimizes swaps, it performs O(n²) comparisons, which can slow down execution.
-// Slower than Insertion Sort for Nearly Sorted Data – Insertion Sort performs O(n) in the best case, whereas Selection Sort still takes O(n²).
+// Slower than Insertion Sort for Nearly Sorted Data – Insertion Sort performs O(n) in the best case, whereas Selection Sort still takes O(n²)..
