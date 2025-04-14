@@ -42,6 +42,7 @@ I am regularly updating this repository with solutions and implementations of fu
 - Insertion Sort
 - Selection Sort
 - Quick Sort
+- Merge Sort
 
 ## 📜 How to Use
 
