@@ -43,6 +43,7 @@ I am regularly updating this repository with solutions and implementations of fu
 - Selection Sort
 - Quick Sort
 - Merge Sort
+- Count Sort
 
 ## 📜 How to Use
 
