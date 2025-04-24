@@ -45,6 +45,13 @@ I am regularly updating this repository with solutions and implementations of fu
 - Merge Sort
 - Count Sort
 
+### 📌 Trees
+
+- Linked Rep. of Binary Tree
+- Pre order traversal
+- Post order traversal
+- In order traversal
+
 ## 📜 How to Use
 
 - Clone the repository:
