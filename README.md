@@ -51,6 +51,7 @@ I am regularly updating this repository with solutions and implementations of fu
 - Pre order traversal
 - Post order traversal
 - In order traversal
+- Searching in BST
 
 ## 📜 How to Use
 
