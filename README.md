@@ -52,6 +52,7 @@ I am regularly updating this repository with solutions and implementations of fu
 - Post order traversal
 - In order traversal
 - Searching in BST
+- Insertion in BST
 
 ## 📜 How to Use
 
