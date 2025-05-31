@@ -53,6 +53,7 @@ I am regularly updating this repository with solutions and implementations of fu
 - In order traversal
 - Searching in BST
 - Insertion in BST
+- Deletion in BST
 
 ## 📜 How to Use
 
