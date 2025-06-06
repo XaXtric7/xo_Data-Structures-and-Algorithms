@@ -55,6 +55,11 @@ I am regularly updating this repository with solutions and implementations of fu
 - Insertion in BST
 - Deletion in BST
 
+### 📌 Graphs
+
+- BFS in graphs
+- DFS in graphs
+
 ## 📜 How to Use
 
 - Clone the repository:
